@@ -5,7 +5,7 @@ export default {
 		host: 'localhost',
 		port: 3306,
 		user: 'luogu_saver',
-		password: 'your_password',
+		password: '${PASSWORD}',
 		database: 'luogu_save'
 	},
 	pagination: {
